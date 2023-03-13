@@ -1,5 +1,5 @@
 # TON Givers Analytics
-We have developed several scripts to analyze transactions sent from gyvers contracts.
+We have developed several scripts to analyze transactions sent from Givers contracts.
 
 
 ## QA
@@ -83,7 +83,7 @@ SELECT  COUNT(DISTINCT  to_wallet) as  wallets_amount  FROM  data  WHERE  from_w
 
 #### Get total amount of TON's sent from giver
 ```sql 
-SELECT  SUM(amount) as  total_amount  FROM  data  WHERE  from_wallet = ”<giver_address>”; 
+SELECT  SUM(amount) as  total_amount  FROM  data  WHERE  from_wallet = ”GIVER_ADDRESS_HERE”; 
 ```
 
 #### Get total amount of TON's sent from Large Givers (all)
