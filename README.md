@@ -15,7 +15,7 @@ We have developed several scripts to analyze transactions sent from Givers contr
 
 ## Installation
 
-Download file **database.sqlite** and **mining_tx.csv** to folder data from [Google Drive](https://drive.google.com/drive/folders/1KZUKmjGqcGaNpKeDunBgg5Ixgz5qTQDW?usp=sharing)
+Download file <**database.sqlite**> and <**mining_tx.csv**> to folder <**data**> from [Google Drive](https://drive.google.com/drive/folders/1KZUKmjGqcGaNpKeDunBgg5Ixgz5qTQDW?usp=sharing)
 
 ```sh
 # clone repository, run scripts from `scripts` folder
