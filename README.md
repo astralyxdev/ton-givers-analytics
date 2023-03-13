@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 
 
-## Create files and folders
+## Files and folders
 
 * data/
 	* mining_tx.csv - raw data from TON Tech
